@@ -1,5 +1,7 @@
 # mnist-using-convolutions
 
+Description:
+
 About this dataset
 The data files train.csv and test.csv contain gray-scale images of hand-drawn digits, from zero through nine.
 
