@@ -20,3 +20,29 @@ Visually, if we omit the "pixel" prefix, the pixels make up the image like this:
 728 729 730 731 ... 754 755
 756 757 758 759 ... 782 783 
 The test data set, (test.csv), is the same as the training set, except that it does not contain the "label" column.
+
+Contents:
+
+1) model.py 
+
+2) train.csv
+
+3) test.csv
+
+Dependencies:
+
+1) tensorflow
+
+2) sklearn
+
+3) pandas
+
+4) numpy 
+
+5) PIL
+
+6) scipy
+
+7) matplotlib
+
+8) h5py
